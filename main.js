@@ -23,8 +23,8 @@ document.getElementById("btn").addEventListener("click", () => {
         console.log(data)
          document.getElementById("output").innerHTML =
         `<p>${data.slip.advice}</p>`
+         })
     }
-    })
 })
 
 
