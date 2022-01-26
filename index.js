@@ -2,7 +2,7 @@ const output=document.getElementById("output")
 
 const fetchAdvice=()=>{
   const promises=[];
-  for(let i=1; i<=12;i++){
+  for(let i=1; i<=15;i++){
       const url=`https://api.adviceslip.com/advice/${i}`;
       promises.push(fetch(url).then((res)=>res.json()));
   }
