@@ -1,3 +1,5 @@
+const output=document.getElementById("output")
+
 const fetchAdvice=()=>{
   const promises=[];
   for(let i=1; i<=12;i++){
@@ -13,7 +15,6 @@ const fetchAdvice=()=>{
   })
 };
 
-const output=document.getElementById("output")
 const displayAdvice=(Advice, Images)=>{
   console.log(Advice);
   const adviceHTMLString= Advice.map(Advice=>`
