@@ -13,21 +13,6 @@ const fetchAdvice=()=>{
   })
 };
 
-// const fetchImages=()=>{
-//   const promises=[];
-//   for(let i=1; i<=12;i++){
-//     const url=`https://dog.ceo/api/breeds/image/random/${i}`
-//     promises.push(fetch(url)
-//     .then((res) => res.json()));
-//   }
-//   Promise.all(promises).then((results)=> {
-//     const Images = results.map((data)=>({
-//       'message':data.message
-//     }));
-//     displayAdvice(Advice);
-//   })
-// };
-
 const output=document.getElementById("output")
 const displayAdvice=(Advice, Images)=>{
   console.log(Advice);
@@ -46,4 +31,3 @@ const displayAdvice=(Advice, Images)=>{
   output.innerHTML=adviceHTMLString;
 }
 fetchAdvice();
-// fetchImages();
