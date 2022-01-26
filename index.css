@@ -30,29 +30,29 @@ ul{
   }
 
 .card1{
-  margin: 5px;
-  padding: 5px;
+  margin: 0;
+  padding: 30px;
   margin: auto;
   margin-bottom: 50px;
   height: 270px;
   width: 250px;
 /* New changes for flip..............................  */
-transform-style: preserve-3d;
-transition: all 0.5s ease;
+transform-style:preserve-3d;
+transition: all 0.8s ease;
 }
 
 .adviceImage{
   /* background-image: url("https://source.unsplash.com/random"); */
   background-repeat: no-repeat;
   background-size: cover;
-  height: 90px;
-  width: 90px;
-  border: 1px solid yellow;
-  border-radius: 50px;
+  height: 150px;
+  width: 150px;
+  border: 2px solid rgb(0, 119, 255);
+  border-radius: 40px;
   margin-inline: 80px;
   /* padding-bottom: ; */
-  margin-top: 20px;
-  
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 li:hover{
   
@@ -67,7 +67,7 @@ h3{
   margin:0;
   padding-inline: 40px;
   margin-top: 10px;
-  color: #310f3f;
+  color: #201455;
   
 }
 #adviceString{
