@@ -25,7 +25,6 @@ const displayAdvice=(Advice, Images)=>{
   <center><h3 id="adviceNo">Advice #${Advice.id}</h3></center> </div>
   <div class="back">
   <center><h3 id="adviceNo">Advice #${Advice.id}</h3></center>
-
   <center><p id="adviceString">${Advice.advice}</p></center> </div>
   </li>
   `).join(" ")
