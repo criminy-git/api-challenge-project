@@ -1,4 +1,4 @@
-# Life advice 
+# Life advice flip over cards
 # API Group Project, Challenge Entry
 
 [Link to finished project](https://j-pohl.github.io/api-challenge-project/)
