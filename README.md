@@ -6,7 +6,7 @@
 What I learned during this project (January 2022):
 - Working as part of a team
 - Practising fetching and rendering API data
-- CSS styling to achieve effect of flipping card on click
+- CSS styling to achieve effect of flipping card on hover
 
 ---
 
