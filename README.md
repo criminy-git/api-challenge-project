@@ -8,6 +8,7 @@ What I learned during this project (January 2022):
 - Practising fetching and rendering API data
 - CSS styling to achieve effect of flipping card on click
 
+---
 
 Team challenge entry of 
 AmaanGodhrawala and j-pohl for the challenge below:
