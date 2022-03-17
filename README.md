@@ -1,7 +1,13 @@
 # Life advice 
 # API Group Project, Challenge Entry
 
-[Link to live page of this project](https://criminy-git.github.io/api-challenge-project/)
+[Link to finished project](https://j-pohl.github.io/api-challenge-project/)
+
+What I learned during this project (January 2022):
+- Working as part of a team
+- Practising fetching and rendering API data
+- CSS styling to achieve effect of flipping card on click
+
 
 Team challenge entry of 
 AmaanGodhrawala and j-pohl for the challenge below:
